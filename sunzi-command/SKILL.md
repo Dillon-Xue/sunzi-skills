@@ -1,6 +1,9 @@
 ---
 name: sunzi-command
+slug: sunzi-command
+displayName: 将道·地形·情报
 description: 当你要带一支队伍、进入陌生环境或摸清对手底牌的时候用。会帮你判断所处局势、识别团队成员的性格破绽、建立情报来源，并提醒你别因情绪或侥幸误判。纯个人 solo、不需要带人或摸对手的情况，不要用这个技能。
+version: 0.1.0
 ---
 
 # 将道·地形·情报

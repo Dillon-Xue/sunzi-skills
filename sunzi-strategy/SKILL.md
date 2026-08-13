@@ -1,6 +1,9 @@
 ---
 name: sunzi-strategy
+slug: sunzi-strategy
+displayName: 谋略预判与全胜
 description: 当你在盘算一件大事该不该做、能不能赢、值不值得投入的时候用。会给你一套事前对照清单（目标、资源、对手、时机），帮你判断是全力上、先守还是直接撤。已经决定要做、只问怎么执行的情况，不要用这个技能。
+version: 0.1.0
 ---
 
 # 谋略预判与全胜
